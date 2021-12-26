@@ -1,4 +1,4 @@
-# CSharp-_WPF_Application
+# CSharp_WPF_Application
 Using C# and .Net framework to create Desktop application
 
 Creating A Simple Window Application
